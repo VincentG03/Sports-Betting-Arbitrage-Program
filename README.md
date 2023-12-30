@@ -1,4 +1,5 @@
 # Sports Betting Arbitrage Program
+> View Jupyter Notebook file (main.ipynb) for IN-DEPTH explanations.
 
 The purpose of this project is to create an abritrage sports betting program that identifies arbitrage opportunities determines the how much to bet on each of the outcmoes to gaurantee profit.
 
@@ -16,4 +17,3 @@ You can customise (in the "Main" section):
 - whether or not you want the arbitrage results of all matches (yes and no) or just the ones that have arbitrage opportunites (yes only)  
 - whether or not you want the results of only matches that have not become a live game yet (pre-game period)
 
-> View Jupyter Notebook file (main.ipynb) for IN-DEPTH explanations.
